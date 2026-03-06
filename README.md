@@ -1,1 +1,1 @@
- System.out.println("E el otro")
+ System.out.println("Es el otro")
